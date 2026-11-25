@@ -1,0 +1,1 @@
+# Changelog\n\n## V1.5.0\n- 整合式本機優先學習管理介面。\n- 成績、考試、錯題、任務、筆記與分析。\n- IndexedDB、JSON 備份還原、CSV 匯出。\n- PWA 基礎與 GitHub Pages Actions 部署。\n- 文件明確列出尚未實作功能。\n

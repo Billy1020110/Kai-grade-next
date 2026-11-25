@@ -1,0 +1,17 @@
+{
+  "name": "Kai Grade NEXT",
+  "short_name": "Kai Grade",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f2f4fa",
+  "theme_color": "#101827",
+  "lang": "zh-Hant",
+  "icons": [
+    {
+      "src": "assets/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
